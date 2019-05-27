@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"NONE","temp":"","event-type":"6","_id":"zeeFp","actions":[{"member":"2","varName2":"join","role":"2","varName":"","name":"Add Member Role"},{"time":"5","measurement":"2","name":"Wait"},{"info":"0","find":"574208411550482471","storage":"1","varName":"1strole","name":"Find Role"},{"member":"2","varName2":"Join","role":"3","varName":"1strole","name":"Add Member Role"}]}]
